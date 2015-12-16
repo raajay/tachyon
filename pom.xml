@@ -492,6 +492,7 @@
             <exclude>LICENSE</exclude>
             <exclude>NOTICE</exclude>
             <exclude>install.sh</exclude>
+            <exclude>load_hdfs.sh</exclude>
 
             <!-- Default local file Exclusions -->
             <exclude>**/underFSStorage/**</exclude>
